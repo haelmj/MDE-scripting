@@ -5,3 +5,4 @@ build/
 *.json
 __pycache__/
 avscan.spec
+*.log
